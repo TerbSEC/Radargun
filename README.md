@@ -1,13 +1,9 @@
-# Radargun
-Radargun for FiveM
+# Poliisitutka
+Poliisitutka fiveämmää
 
-- **Press Y to open**
-- **Press E to freeze Measurement**
+- **Paina Y että tutka aukeaa**
+- **Paina E että nopeus jää näyttöön**
 
-You can change this in the Config.lua :)
+voit tietenkin muuttaa painikkeita config.luasta :)
 
 
-*Full Credits to*
-- **#Brock70 for the Original Script (https://forum.fivem.net/t/release-police-alpr/61227)**
-- **#Chip_W_Gaming for giving me access to reupload his Script with some changes that i made :)**
-- **#Scaarus for the beautiful radargun (https://www.lcpdfr.com/files/file/18506-prolaser-4-radar-gun/)**
