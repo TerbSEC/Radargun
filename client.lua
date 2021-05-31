@@ -46,18 +46,18 @@ Citizen.CreateThread( function()
 				if shown == true then
 					shown = false
 					SendNUIMessage({
-						action = "close",
+						action = "Sulje",
 					})
 				else
 					SendNUIMessage({
-						action = "open",
+						action = "Avaa",
 					})
 					shown = true
 				end
 			else
 				if shown == true then
 					SendNUIMessage({
-						action = "close",
+						action = "Sulje",
 					})
 					shown = false
 				end
