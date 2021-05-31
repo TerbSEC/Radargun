@@ -1,11 +1,3 @@
---[[------------------------------------------------------------------------
-	Radar/ALPR 
-	Created by Brock =]
-	Edited by Chip W. Gaming and Terbium
-	Uses Y to turn on
-    Uses E to freeze
-------------------------------------------------------------------------]]--
-
 cfg = {}
 
 cfg.menuopen = 246 -- BUTTON TO OPEN MENU (https://docs.fivem.net/game-references/controls/)
