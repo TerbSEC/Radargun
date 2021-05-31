@@ -4,10 +4,10 @@ var rangeDecimals = 1;
 $(document).ready(function(){
     window.addEventListener('message', function(event) {
 
-        if (event.data.action == 'open') {
+        if (event.data.action == 'Avaa') {
             $('#lasergun').show();
             $('#speed').text("NAN");
-        } else if (event.data.action == 'close') {
+        } else if (event.data.action == 'Sulje') {
             $('#lasergun').hide();
         }
 
